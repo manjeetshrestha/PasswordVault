@@ -1,0 +1,1 @@
+To run the python file, Python 3 ,tkinter module,Pillow module must be installed
